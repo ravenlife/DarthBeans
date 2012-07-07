@@ -13,7 +13,7 @@
     <fontcolor default="comment" name="sgml-comment"/>
     <fontcolor default="whitespace" name="ws"/>
     <fontcolor default="argument" name="operator"/>
-    <fontcolor default="entity-reference" name="character"/>
+    <fontcolor default="entity-reference" foreColor="ffae81ff" name="character"/>
     <fontcolor name="mod-class" waveUnderlined="red"/>
     <fontcolor default="default" name="javascript-embedded"/>
     <fontcolor default="markup-attribute-value" name="value"/>
